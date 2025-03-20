@@ -1,1 +1,14 @@
 ajay
+
+
+
+1) Repo --> github 
+2) Clone 
+3) Adding  the some code on repo 
+4) Adding filr into github using : git add . 
+5) Commmit the code using : git commit -m 'any text'
+6) Push the code  : git push origin main 
+
+
+
+
